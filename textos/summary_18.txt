@@ -1,0 +1,93 @@
+Estudio para evaluar la eficacia y la seguridad de otilimab en personas con artritis reumatoide activa que no respondieron al tratamiento con metotrexato
+
+Información general sobre el estudio 
+
+¿Cuál fue el principal objetivo del estudio?
+
+La artritis reumatoide (AR) es una enfermedad autoinmunitaria a largo plazo en la cual el sistema inmunitario (procesos que ayudan a combatir las infecciones) ataca las articulaciones del cuerpo p.ej., manos, muñecas, rodillas y tobillos. Esto provoca hinchazón, dolor y rigidez en las articulaciones afectadas. En la figura siguiente se muestran los síntomas de la AR.
+
+*Erosión: defectos que se desarrollan debido a una pérdida excesiva y una formación inadecuada de hueso o cartílago.
+
+**Cartílago: tejido fuerte y flexible que recubre y protege las articulaciones entre los huesos.
+
+***Menisco: cartílago fibroso delgado que se encuentra entre las superficies de ciertas articulaciones, p. ej., la rodilla.
+
+Hay diferentes tipos de tratamiento disponibles para la AR. Uno de ellos es un grupo de fármacos denominados fármacos antirreumáticos modificadores de la enfermedad (DMARD, Disease-Modifying Antirheumatic Drug), p. ej., el metotrexato (MTX). El otilimab es uno de esos medicamentos que sirve para bloquear la liberación de sustancias en el cuerpo que causa la AR. De este modo, se reduce la actividad de la enfermedad y, por tanto, el daño y el dolor de las articulaciones. Los investigadores de este estudio querían comparar la eficacia y la seguridad del medicamento del estudio, otilimab junto con tofacitinib y placebo (que no contiene ningún medicamento activo) en participantes con AR de moderada a grave. Estos participantes tenían antecedentes de respuesta inadecuada al tratamiento con MTX.
+
+¿Cuándo y dónde se realizó el estudio?
+
+Ha habido un total de 1537 participantes de 19 países que formaron parte del estudio, como se muestra a continuación.
+
+¿Quién participó en el estudio?
+
+La siguiente figura muestra la información de los participantes que recibieron al menos una dosis de otilimab.
+
+Los estudios tienen una lista de requisitos que definen a los participantes que pueden participar (criterios de inclusión) o no (criterios de exclusión) en el estudio.
+
+Los principales criterios de inclusión y de exclusión de este estudio se muestran a continuación.
+
+¿Qué medicamentos se estudiaron?
+
+En la figura siguiente se muestran los medicamentos que se utilizaron durante el estudio. Las cápsulas se administraron por vía oral y las inyecciones, por vía subcutánea (SC).
+
+La inyección de placebo fue una solución de cloruro sódico al 0,9 % (solución salina). La cápsula placebo era una cápsula que contenía lactosa.
+
+¿Qué sucedió durante el estudio?
+
+Se trataba de un estudio con doble enmascaramiento, en el que tanto los médicos del estudio como los participantes desconocían los medicamentos administrados.
+
+El estudio se realizó en dos partes: período 1 (del día 1 al mes 3) y período 2 (del mes 3 al año 1). Los participantes se distribuyeron en 6 grupos al azar (asignación al azar). Los participantes de todos los grupos recibieron MTX por vía oral o inyectable, a la misma dosis que tomaban antes del estudio.
+
+En el 3.° mes, los 3 grupos de placebo pasaron al tratamiento activo.
+
+Los participantes de los grupos 1, 2 y 3 continuaron en el estudio sin cambios en su tratamiento, hasta el año 1. La figura siguiente describe detalladamente el diseño del estudio.
+
+¿Cuáles fueron los principales resultados del estudio?
+
+Los investigadores querían comprobar la eficacia de las dos dosis de otilimab, en comparación con el placebo en el 3.° mes, cuando se administraba junto con MTX a participantes con AR de moderada a grave.
+
+Para ello, evaluaron el número de participantes que alcanzaron la escala ACR20 en el 3.° mes. La escala ACR20 refleja una mejora del 20 % en los síntomas de
+
+AR según la definición de la American College of Rheumatology (ACR).
+
+¿Cuáles fueron los efectos secundarios / las reacciones adversas notificados durante el estudio?
+
+Esta sección es un resumen de los problemas médicos no deseados (acontecimientos adversos) que pueden padecer los participantes al recibir un medicamento. Los médicos del estudio dejan constancia de estos acontecimientos.
+
+
+¿Cuáles fueron los efectos secundarios graves que surgieron durante el estudio?
+
+Los efectos secundarios graves notificados por los participantes de cualquiera de los grupos se muestran a continuación.
+
+- Problemas respiratorios debido a un flujo de aire limitado a través de un conducto de aire obstruido
+- Ataque al corazón
+- Fracaso renal
+- Respuesta potencialmente mortal a una infección
+- Inflamación prolongada de las amígdalas
+- Niveles de hemoglobina (proteína de la sangre que transporta oxígeno) inferiores a los normales
+- Infección pulmonar
+- Cáncer de pulmón
+- Forúnculos dolorosos llenos de pus en la pierna
+- Infección bacteriana grave de la piel
+- Infección grave de la piel causada por las bacterias Staphylococcus
+- Disminución repentina de la función renal
+- Desgarros en las bolsas infectadas del intestino grueso
+- Niveles muy bajos de neutrófilos (un tipo de glóbulo blanco)
+- Infección generalizada que causa fallo orgánico y presión arterial peligrosamente baja 
+
+No murió ninguno de los participantes del estudio a causa de los efectos secundarios.
+
+¿Cuáles fueron los efectos secundarios no graves que surgieron durante el estudio?
+
+En la tabla siguiente se muestran los efectos secundarios no graves comunicados por al menos un 3 % de los participantes de cualquiera de los grupos.
+
+- Trastorno del sistema inmunitario que produce células que combaten la enfermedad (linfocitos)
+- Niveles de una proteína del hígado (alanina) en sangre superiores a lo normal
+- Niveles de linfocitos inferiores a lo normal
+- Reacción en el lugar de la infección
+
+¿Cómo ha ayudado este estudio a los participantes y a los investigadores?
+
+El estudio alcanzó el objetivo principal de ACR20 con otilimab 90 mg y 150 mg frente al placebo en el 3.° mes. Ambas dosis de otilimab obtuvieron resultados consistentes en otros métodos que midieron la eficacia. Tofacitinib mostró mayor eficacia en comparación con ambas dosis de otilimab. Los efectos secundarios notificados en este estudio fueron los esperados y parecidos en todos los grupos de tratamiento.
+
+Título completo del estudio: Estudio sobre eficacia y seguridad de fase III, multicéntrico, aleatorizado y con doble enmascaramiento de 52 semanas donde se comparó otilimab con un placebo y con tofacitinib, combinados con metotrexato, en participantes con artritis reumatoide activa de moderada a grave y que demostraron una respuesta inadecuada al metotrexato.

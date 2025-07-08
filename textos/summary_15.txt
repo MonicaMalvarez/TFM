@@ -1,0 +1,85 @@
+Estudio sobre la eficacia y seguridad de la vacuna adyuvada RSVPreF3 contra las enfermedades de las vías respiratorias inferiores relacionadas con el VRS en adultos mayores de 50 años
+
+Información general sobre el estudio 
+
+¿Cuál fue el principal objetivo del estudio?
+
+El virus respiratorio sincitial, abreviado VRS, es un virus muy común que se propaga fácilmente de una persona a otra y causa principalmente infecciones en los pulmones y las vías respiratorias, lo que dificulta la respiración. El VRS es una causa frecuente de enfermedad del tracto respiratorio inferior (ETRI), que es una afección que afecta a nuestra capacidad para respirar. El VRS es solo uno de los virus que pueden causar este tipo de infecciones, pero es uno de los más comunes. Algunos de los síntomas causados por las infecciones por VRS se muestran en la siguiente figura.
+
+El VRS afecta a personas de todas las edades. Es especialmente peligrosa para las personas con enfermedades pulmonares y cardiacas, ya que puede provocarles enfermedades graves o empeorar sus problemas de salud.
+
+En este estudio, GSK está probando una nueva vacuna que se está desarrollando contra el VRS en adultos mayores de 50 años que tienen un mayor riesgo de desarrollar una forma grave de infección por VRS.
+
+Los resultados de este estudio pueden ayudar a determinar quién puede beneficiarse de la vacuna.
+
+¿Cuándo y dónde se realizó el estudio?
+
+En este estudio participaron un total de 1533 personas, algunas de las cuales recibieron la vacuna contra el VRS y otras un placebo.
+
+¿Quién participó en el estudio?
+
+Los estudios tienen una lista de requisitos que definen a los participantes que pueden participar y a los que no.
+
+En el estudio se incluyeron hombres y mujeres que cumplían las siguientes condiciones:
+
+• Tenían entre 50 y 59 años y más de 60 años (también denominados adultos mayores u OA) en el momento en que se les administró la vacuna del estudio.
+
+• Se consideraron globalmente sanos basándose en su historial médico, los controles de seguridad, los resultados de las pruebas de laboratorio y las revisiones realizadas por un médico.
+
+• Tienen enfermedades estables de larga duración, como diabetes, hipertensión arterial o cardiopatías, lo que significa que su estado no ha cambiado en los últimos 3 meses y que sus médicos también los consideran estables.
+
+Se les excluyó del estudio si cumplían las siguientes condiciones:
+
+• Padecían una enfermedad que debilita el sistema inmunitario, como cáncer, VIH o están tomando medicamentos que debilitan el sistema inmunitario.
+
+• Tienen antecedentes de demencia o cualquier enfermedad que afecte a su memoria o pensamiento y a las tareas cotidianas.
+
+• Padecen alguna enfermedad subyacente que, en opinión del médico del estudio, impide la participación en el mismo.
+
+¿Qué vacunas se estudiaron?
+
+• Una vacuna es un tipo de medicamento que ayuda a proteger frente a una enfermedad infecciosa concreta.
+
+• La vacuna contiene una pequeña parte del virus que no puede causar infección. Las defensas (o sistema inmune) del organismo reconocen estas pequeñas partes del virus, que pueden ayudarle a crear unas defensas llamadas “anticuerpos” frente al virus.
+
+¿Qué sucedió durante el estudio?
+
+En este estudio, los participantes se dividieron en dos cohortes.
+
+• La cohorte 1 incluyó a personas de entre 50 y 59 años y se realizó como un estudio enmascarado para el observador. Esto significa que ni el médico del estudio ni los participantes sabían quién había recibido la vacuna o el placebo. Sin embargo, el resto del personal del estudio sabía a qué grupos pertenecían los participantes.
+
+Después del primer mes, el estudio pasó a ser con enmascaramiento único, en el que solo el médico del estudio conocía el tratamiento que recibían los participantes. Este grupo se dividió a su vez en 4 grupos (dos grupos recibieron la vacuna adyuvada RSVPreF3 y dos grupos recibieron el placebo). Esto se hizo en una proporción de 2:1, lo que significa que algunos participantes recibieron la vacuna adyuvada RSVPreF3 y otros recibieron placebo.
+
+• La cohorte 2 incluyó a adultos de 60 años o más y fue un estudio abierto, en el que tanto los participantes como los médicos del estudio sabían que estaban recibiendo la vacuna. Esta cohorte tenía un grupo en el que todos recibieron la vacuna adyuvada RSVPreF3. En ambas cohortes, los participantes llevaron un diario en papel durante el primer mes en el que registraron cualquier acontecimiento o efecto secundario relacionado con la salud, y el médico del estudio recopiló la información.
+
+¿Cuáles fueron los principales resultados del estudio?
+
+El estudio comparó la eficacia de la vacuna adyuvada RSVPreF3 contra dos tipos de virus VRS, denominados VRS-A y VRS-B, en adultos sanos de 50 a 59 años (HA), adultos de 50 a 59 años con mayor riesgo (AIR) y mayores de 60 años (OA).
+
+Se midió por el nivel de anticuerpos desarrollados contra el VRS-A y el VRS-B tras recibir la vacuna adyuvada RSVPreF3. Los anticuerpos son proteínas especiales producidas por nuestro organismo para luchar contra las infecciones.
+
+La diferencia media de los niveles de anticuerpos entre estos grupos se calculó midiendo la proporción media geométrica (GMR). Esto ayudó a comprobar lo similares o diferentes que eran sus respuestas a la vacuna. Los detalles se mostraron en la siguiente imagen.
+
+Un mes después de recibir la vacuna adyuvada RSVPreF3, la respuesta inmunitaria frente al VRS-A y VRS-B en los grupos HA y AIR no fue inferior a las respuestas observadas en el grupo de adultos mayores (OA), lo que significa que fue al menos tan buena como la respuesta observada en los OA.
+
+Los investigadores también midieron el aumento medio de los niveles de anticuerpos en los participantes mediante la tasa de serorrespuesta y compararon esta medida entre los grupos.
+
+Un mes después de recibir la vacuna adyuvada RSVPreF3, la respuesta inmunitaria frente al VRS-A y VRS-B en los grupos HA y AIR no fue inferior a las respuestas observadas en el grupo de adultos mayores (OA), lo que significa que fue al menos tan buena como la respuesta observada en los OA.
+
+Las dos formas de medir la respuesta inmunitaria garantizan a los investigadores que las respuestas observadas son fiables.
+
+¿Cuáles fueron los efectos secundarios graves (o reacciones adversas graves) encontrados durante este estudio?
+
+En el estudio, hubo un caso de efecto secundario grave relacionado con la vacuna del estudio, denominado “anemia hemolítica de tipo frío”. Se trata de una enfermedad autoinmune específica en la que el sistema inmunitario ataca por error y destruye los glóbulos rojos, lo que provoca anemia. Esta reacción adversa fue notificada por un participante del grupo OA 52 días después de la vacunación del estudio. No hubo otros efectos secundarios graves ni ninguna muerte que se considerara relacionada con la vacuna.
+
+¿Cuáles fueron los efectos secundarios o acontecimientos adversos (AA) no graves que surgieron durante el estudio?
+
+Las personas de entre 50 y 59 años que recibieron la vacuna del estudio notificaron más acontecimientos adversos no graves, como dolor en el lugar de la inyección, dolor articular, dolor muscular, cefalea y cansancio, en comparación con los otros grupos. Sin embargo, estos efectos secundarios no duraron mucho tiempo ni se agravaron, lo que significa que no modificaron la seguridad de la vacuna en las personas de 50 a 59 años en comparación con el grupo OA.
+
+¿Cómo ha ayudado este estudio a los participantes y a los investigadores?
+
+Los resultados de este estudio mostraron que la vacuna adyuvada RSVPreF3 desencadenó una fuerte respuesta inmunitaria en los tres grupos de tratamiento (tanto en el grupo de adultos sanos como en el de adultos con mayor riesgo, así como en el grupo de adultos mayores).
+
+La respuesta de estos participantes fue similar a la que suele observarse en adultos de 60 años o más. Los resultados de este estudio mostraron que la vacuna adyuvada RSVPreF3 tiene un perfil de seguridad aceptable cuando se administra en adultos de 50-59 años, incluidos los participantes con enfermedades predefinidas, estables y de larga duración que conducen a un mayor riesgo de enfermedad por VRS.
+
+Título completo del estudio: Estudio de fase III, enmascarado para el observador, aleatorizado y controlado con placebo para evaluar la no inferioridad de la respuesta inmunitaria y la seguridad de la vacuna en investigación RSVPreF3 OA en adultos de 50 a 59 años, incluidos los adultos con mayor riesgo de enfermedad de las vías respiratorias inferiores por el virus respiratorio sincitial, en comparación con adultos mayores de ≥60 años.

@@ -1,0 +1,86 @@
+Nombres del estudio 
+ 
+Título breve: Estudio para comparar seis dosis diferentes de nemiralisib con placebo cuando se agrega este fármaco a medicamentos habituales en pacientes con empeoramiento de moderado a grave de la enfermedad pulmonar obstructiva crónica (EPOC). 
+ 
+Título científico completo: Un estudio de fase IIb, aleatorizado (estratificado), con doble enmascaramiento (en abierto para el promotor), de grupos paralelos y controlado con placebo de búsqueda de dosis de nemiralisib (GSK2269557) agregado al tratamiento de referencia en comparación con el tratamiento de referencia solo en participantes con diagnóstico de exacerbación aguda moderada o grave de la enfermedad pulmonar obstructiva crónica. 
+ 
+Información general sobre el estudio clínico 
+ 
+¿Cuándo se hizo este estudio? 
+ 
+El estudio comenzó en noviembre de 2017 y finalizó en enero de 2019. 
+ 
+¿Cuál era el objetivo principal de este estudio? 
+ 
+La enfermedad pulmonar obstructiva crónica (EPOC) es una enfermedad a largo plazo de los pulmones que dificulta la respiración y empeora a lo largo del tiempo. Los pacientes que padecen EPOC presentan una inflamación de las vías respiratorias o de los pulmones. Esta inflamación puede provocar falta de aliento, tos y opresión en el pecho. 
+Para el tratamiento de la EPOC es importante disminuir la intensidad de los síntomas. 
+Para los pacientes con EPOC, los medicamentos inhalados son una parte importante del tratamiento. Un inhalad or es un dispositivo de mano diseñado para administrar medicamentos a los pulmones. 
+ 
+Los investigadores querían ver si nemiralisib, un medicamento inhalado, reducía la inflamación de pulmón y mejoraba la función pulmonar en pacientes con empeoramiento de moderado a grave de la EPOC. En este estudio, se compararon con placebo (sustancia farmacológicamente inerte) seis dosis diferentes de nemiralisib agregado a los medicamentos habituales (tratamiento de referencia) de los pacientes con EPOC . En el estudio también se evaluó la seguridad de nemiralisib. 
+ 
+¿Qué medicamentos se estudiaron? 
+ 
+Los pacientes se incluyeron de manera aleatoria (asignación al azar) en uno de los siete grupos de tratamiento, como se muestra en la figura a continuación. Se incluyeron tres veces más pacientes en el grupo de placebo y en el grupo de nemiralisib 750 microgramos ( mcg ) en comparación con los otros grupos de nemiralisib. 
+ 
+Diseño del estudio 
+ 
+Ni los pacientes ni los médicos del estudio sabían quién estaba recibiendo cada tratamiento. Esto se denomina estudio con doble enmascaramiento. 
+ 
+Para los resultados reportados durante el período de seguimiento de 12 semanas, consulte los resúmenes de resultados científicos (s e proporcionan enlaces a esos resúmenes al final de este documento). 
+ 
+¿A qué pacientes se incluyó en este estudio? 
+ 
+Los estudios tienen una lista de requisitos que definen a los pacientes que pueden participar (criterios de inclusión) y a los que no (criterios de exclusión). Los principales criterios de inclusión y de exclusión de este estudio se muestran a continuación. 
+ 
+Se incluyeron en el estudio hombres y mujeres con EPOC que cumplían estas condiciones: 
+• Tenían entre 40 y 80 años de edad. 
+• Eran o habían sido fumadores. 
+• Habían experimentado un empeoramiento repentino de los síntomas de la EPOC que requería medicamentos adicionales para esta enfermedad. 
+ 
+Se excluyó del estudio a los hombres y mujeres que cumplían las siguientes condiciones: 
+• Padecían asma. 
+• Padecían neumonía. 
+• Padecían cualquier otro problema pulmonar como tuberculosis. 
+• Habían sufrido la extracción de parte del pulmón. 
+• Padecían enfermedad del hígado o del corazón inestable. 
+• Padecían otras enfermedades o usaban otros medicamentos que, según el criterio del médico del estudio, podrían afectar a los resultados del estudio. 
+
+Un total de 938 pacientes recibieron al menos una dosis del medicamento del estudio. 
+ 
+¿Dónde se hizo este estudio? 
+ 
+Los centros del estudio se encontraban en 16 países. 
+ 
+¿Cuáles fueron los resultados globales del estudio? 
+ 
+Las pruebas de función pulmonar sirven para determinar con qué facilidad los pulmones de los pacientes inhalan y exhalan aire. Los médicos pueden utilizar los resultados de estas pruebas para comprobar si la función pulmonar es estable, está mejorando o está empeorando. 
+Un valor de la función pulmonar es el volumen espiratorio forzado en un segundo (VEF 1). El VEF 1 se define como la cantidad de aire que el paciente puede espirar en el primer segundo cuando se le pide que sople lo más fuerte posible en un tubo conectado a una máquina (espirómetro). Los valores elevados de VEF 1 indican que se exhala una mayor cantidad de aire y que la función pulmonar es mejor. 
+ 
+Los médicos del estudio midieron los valores de VEF 1 el día 1 (al inicio) y luego nuevamente en la semana 12. La diferencia entre el valor VEF 1 al inicio y después de 12 semanas de tratamiento se llama cambio a las 12 semanas respecto al inicio en el VEF 1. 
+ 
+Los valores del cambio a las 12 semanas respecto a l inicio en el VEF 1 correspondientes a los diferentes pacientes de cada grupo de tratamiento se combinaron y promediaron. 
+Estos valores medios se compararon entre los siete grupos de tratamiento. El cambio a las 12 semanas respecto al inicio en el VEF 1 podría calcularse para 721 pacientes cuyos valores se determinaron al inicio y al cabo de 12 semanas. 
+Después de 12 semanas de tratamiento, el cambio respecto al inicio en el promedio de VEF 1 (función pulmonar ) de los pacientes fue similar en todos los grupos de tratamiento, incluido el de placebo. 
+ 
+¿Cuáles fueron los efectos secundarios? 
+ 
+Al recibir un medicamento, las personas pueden presentar acontecimientos médicos no deseados (acontecimientos adversos) . Los médicos del estudio dejan constancia de estos acontecimientos. Puede encontrar un resumen de todos estos acontecimientos en los resúmenes de los resultados científicos (al final de este documento se proporcionan los enlaces a esos resúmenes). 
+ 
+Si el médico del estudio piensa que el acontecimiento fue causado por el medicamento del estudio, dejar á constancia del mismo como un posible efecto secundario (reacción adversa). 
+En este re sumen, por “efectos secundarios ” se entienden los acontecimientos que, en opinión del médico del estudio, pueden haber sido causados por el medicamento del estudio. Los efectos secundarios de este resumen pueden ser diferentes de los del consentimiento informado o de otros documentos relacionados con el medicamento del estudio. 
+ 
+En los estudios con enmascaramiento el médico no sabe qué medicamento del estudio está tomando el paciente. En algunos casos, se asignarán efectos secundarios al placebo. 
+ 
+En ningún grupo de tratamiento más del uno por ciento de los pacientes informaron de un efecto secundario grave hasta la semana 12. Tres pacientes (uno del grupo placebo, uno del grupo de nemiralisib 50 mcg y uno grupo de nemiralisib 750 mcg) informaron un efecto secundario grave de empeoramiento de los síntomas de EPOC. El paciente del grupo de nemiralisib 750 mcg también reportó presión arterial baja. Ningún paciente en los otros grupos de nemiralisib (12,5, 100, 250 y 500 mcg) informó efectos secundarios graves. 
+ 
+Tos 
+Cefalea 
+Irritación de garganta 
+ 
+¿Cómo ha ayudado este estudio a los pacientes y a los investigadores? 
+ 
+Se trató de un estudio de fase II. El propósito de un estudio de fase II es recopilar información sobre la seguridad del medicamento. Además, puede proporcionar información temprana sobre cómo funciona el medicamento contra la enfermedad. En este estudio se demostró que la adición de nemiralisib al medicamento habitual para la EPOC en pacientes con empeoramiento moderado -grave de la EPOC no mostró mejoras en la función pulmonar. El número de efectos secundarios reportados por los pacientes en el grupo de nemiralisib fueron más que en el grupo de placebo. La tos fue el efecto secundario no grave m ás com ún en todos los grupos de tratamiento. 
+ 
+¿Se van a hacer otros estudios? 
+ 
+Se han llevado a cabo otros estudios sobre nemiralisib en pacientes con EPOC. En estos momentos no se prevé efectuar más estudios. 

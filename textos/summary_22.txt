@@ -1,0 +1,99 @@
+Información general sobre el estudio 
+
+¿Cuál fue el principal objetivo del estudio?
+
+Los tumores sólidos avanzados hacen referencia al tipo de cáncer que se ha extendido de su ubicación inicial a otras partes del cuerpo. Se ha demostrado la eficacia de varios tratamientos en el abordaje de los tumores. Sin embargo, la mayoría de los pacientes desarrollan resistencia a su tratamiento, lo que provoca la recaída en el cáncer. Los investigadores trabajan en nuevos tratamientos que combinan diferentes medicamentos para tratar a los pacientes que no responden de manera efectiva a un solo medicamento.
+
+Feladilimab es uno de estos medicamentos que funciona como una proteína (anticuerpo) que combate la infección. Consiste en un tratamiento especial, conocido como inmunoterapia, que combate las células cancerígenas. En este estudio, los investigadores han evaluado la seguridad y efectividad del feladilimab administrado solo o junto con otros tratamientos como el pembrolizumab, la quimioterapia u otros fármacos en pacientes con tumores sólidos avanzados.
+
+¿Cuándo y dónde se realizó el estudio?
+
+El estudio incluyó a 829 participantes de 9 países que recibieron al menos una dosis de los medicamentos del estudio.
+
+¿Quién participó en el estudio?
+
+A continuación se muestran los detalles de los participantes.
+
+Los estudios tienen una lista de requisitos que definen a los participantes que pueden participar y a los que no.
+
+En el estudio se incluyeron hombres y mujeres no embarazadas que cumplían las siguientes condiciones:
+
+•  Eran mayores de 18 años.
+
+•  Tenían un cáncer que se había extendido a las zonas cercanas o a otras partes del cuerpo, o que había reaparecido después del tratamiento.
+
+•  Tenían una esperanza de vida, como mínimo, de 12 semanas y sus órganos funcionaban bien.
+
+Se excluyó del estudio a hombres y mujeres si cumplían las condiciones siguientes:
+
+•  Habían recibido un tratamiento contra el cáncer, como mínimo, 14 días antes del inicio del estudio, o bien radioterapia entre dos y cuatro semanas antes del inicio del estudio.
+
+•  Se les había trasplantado tejido o un órgano sólido, o bien tenían efectos secundarios perjudiciales por tratamientos anteriores para el cáncer.
+
+•  Se habían sometido a cualquier cirugía mayor en las últimas cuatro semanas antes de que iniciasen el estudio.
+
+¿Qué medicamentos se estudiaron?
+
+- Feladilimab
+- Pembrolizumab
+- GSK3174998
+- Quimioterapia
+
+Los participantes recibieron una perfusión por vena mediante la que los medicamentos del estudio iban entrando poco a poco a la sangre durante un período de tiempo.
+
+¿Qué sucedió durante el estudio?
+
+Este estudio era un estudio abierto. Quiere decir que los participantes y sus médicos del estudio sabían qué tratamiento recibían los participantes. Tal y como se muestra en el diseño del estudio a continuación, este se ha llevado a cabo en dos partes. Cada parte consiste en una fase de aumento de la dosis y una fase de expansión de la dosis.
+
+•  Aumento de la dosis significa encontrar la dosis adecuada de feladilimab y 
+•  Expansión de la dosis significa utilizar esa misma dosis para evaluar sus efectos en un grupo más amplio de personas.
+
+Los participantes de la Parte 1 (divididos a su vez en las subpartes Parte 1A y Parte 1B) recibieron feladilimab solo y los participantes de la Parte 2 (dividido a su vez en las subpartes 2A y 2B) recibieron una terapia de combinación, que incluía feladilimab con pembrolizumab, quimioterapia u otros tratamientos contra el cáncer.
+
+¿Cuáles fueron los principales resultados del estudio?
+
+En este estudio, los investigadores evaluaron, principalmente, la seguridad junto con las toxicidades limitantes de la dosis (TLD). Las TLD se definen por la aparición de toxicidades graves durante el primer ciclo del tratamiento oncológico. El mayor número de casos de TLD se observaron en 6 (el 8 % de los participantes) en los grupos de quimioterapia combinada, seguramente por los efectos de los medicamentos de quimioterapia.
+
+La seguridad se evaluó mediante el número de acontecimientos médicos no deseados (llamados "acontecimientos adversos", AA) y los AA graves que se notificaron en el estudio.
+
+Los acontecimientos adversos se consideraron “graves” si provocaban la muerte, ponían en causaban vida, peligro problemas duraderos o requerían atención hospitalaria.
+
+De los 829 participantes, 786 (el 95 % de los participantes) notificaron AA. Los AA graves se observaron en 330 de los 829 participantes (el 40 %).
+
+En la sección de seguridad de este resumen se presenta más información sobre los acontecimientos adversos.
+
+¿Cuáles fueron los efectos secundarios / las reacciones adversas notificados durante el estudio?
+
+Esta sección es un resumen de los AA que pueden padecer los participantes al recibir los medicamentos del estudio. Los médicos del estudio dejan constancia de estos acontecimientos como efectos secundarios.
+
+¿Que son los efectos secundarios?
+
+Los efectos secundarios o las reacciones adversas son los acontecimientos que, en opinión del médico del estudio, pueden haber sido causados por el medicamento del estudio.
+
+Puede encontrar un resumen de todos estos acontecimientos en los sitios web que figuran al final de este resumen.
+
+¿Cuáles fueron los efectos secundarios graves que surgieron durante el estudio?
+
+En total, 43 de los 829 participantes (el 5 %) comunicaron efectos secundarios graves relacionados con los medicamentos del estudio. Ninguno de los efectos secundarios graves se observaron en más de un 1 % (1 de cada 100) de los participantes.
+
+En total, 3 de los 829 participantes (menos del 1 %) murieron a causa de daño del hígado, problemas pulmonares que incluían hinchazón y sangrado, así como presión arterial alta en los pulmones debido a los medicamentos del estudio.
+
+¿Cuáles fueron los efectos secundarios no graves que surgieron durante el estudio?
+
+Más de un 5 % de los participantes notificaron los siguientes efectos secundarios no graves.
+
+¿Cómo ha ayudado este estudio a los participantes y a los investigadores?
+
+Los investigadores concluyeron que el feladilimab no presentaba ninguna relación entre la cantidad de medicamento administrada y la toxicidad. Se pudo administrar de manera segura en dosis que fueran beneficiosas; asimismo, los beneficios fueron limitados en el tratamiento de participantes con tumores sólidos avanzados. El estudio alcanzó sus objetivos, pero no se seguirá desarrollando porque los resultados de este estudio, combinados con los de otros estudios, no cumplieron las expectativas de control del crecimiento del cáncer.
+
+¿Se van a hacer otros estudios?
+
+No está previsto realizar más estudios. Se completaron varios estudios sobre el tratamiento de feladilimab junto con otros medicamentos.
+
+¿Dónde puedo encontrar más información sobre este estudio?
+
+Los estudios clínicos tienen números de estudio únicos. El número de estudio único relacionado con este estudio se muestra a continuación en la tabla, junto con un enlace de Internet que lleva al resumen de los resultados de ensayos clínicos.
+
+El resumen de resultados de ensayos clínicos contiene más información sobre el estudio.
+
+Título completo del estudio: Estudio de fase 1 abierto de GSK3359609 (feladilimab) administrado solo o junto con agentes contra el cáncer en participantes con tumores sólidos avanzados seleccionados

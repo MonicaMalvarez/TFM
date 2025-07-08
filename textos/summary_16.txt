@@ -1,0 +1,95 @@
+Estudio para evaluar el efecto de las células T NY-ESO-1C259 en participantes con liposarcoma mixoide avanzado (un tipo de cáncer que se asemeja a las células que almacenan la grasa corporal)
+
+Información general sobre el estudio clínico 
+
+¿Cuándo y dónde se llevó a cabo este estudio?
+
+El estudio comenzó en diciembre de 2016 y terminó en marzo de 2022. El estudio se realizó solo en Estados Unidos.
+
+¿Qué medicamento se estudió?
+
+En este estudio, los participantes recibieron un tratamiento en forma de células T modificadas para atacar las células cancerosas del tejido adiposo del organismo. Este tipo de cáncer se denomina liposarcoma mixoide. Las células T son un tipo de célula sanguínea natural que protege al organismo de las infecciones y el cáncer. En este estudio, las propias células T del participante se transformaron en un laboratorio en células T de carcinoma de células escamosas de esófago de Nueva York (NY-ESO-1) C259.
+
+El proceso de preparar las células T NY-ESO-1C259 se muestra en la siguiente figura.
+
+¿Cuál fue el motivo principal de este estudio?
+
+El liposarcoma mixoide o liposarcoma de célula redonda es un subtipo de liposarcoma.
+
+Los liposarcomas son un tipo de cáncer poco frecuente que se asemeja a las células que almacenan la grasa en el organismo. Los diferentes estadios del cáncer podrían ser los siguientes:
+
+• Metastásico: cuando las células cancerosas crecen y se diseminan a otras partes del cuerpo.
+
+• Recurrente: cuando el cáncer regresa o empeora después un tratamiento satisfactorio.
+
+• Avanzado: los tipos de cáncer que son recurrentes o metastásicos.
+
+El principal tratamiento del liposarcoma mixoide es la cirugía, con o sin radiación. La quimioterapia puede utilizarse antes o después de la cirugía, o para la enfermedad metastásica, recurrente o avanzada. La quimioterapia utiliza medicamentos para destruir las células cancerosas o para impedir que se dividan y crezcan.
+
+En este estudio participaron personas con liposarcoma mixoide avanzado que presentaban proteínas específicas del antígeno leucocitario humano (HLA) en las células sanguíneas (como se muestra en la figura siguiente) y proteínas NY-ESO-1 en las células cancerosas. Estas proteínas de HLA regulan las células que ayudan al organismo a combatir las infecciones.
+
+En este estudio, los investigadores querían determinar si las células T NY-ESO-1C259 podían reducir el tamaño de las células cancerosas de manera parcial o completa.
+
+Los investigadores también estudiaron la seguridad de las células T NY-ESO-1C259.
+
+¿Quién participó en este estudio?
+
+Los estudios tienen una lista de requisitos que definen a los participantes que pueden formar parte (criterios de inclusión) y a aquellos que no pueden hacerlo (criterios de exclusión). A continuación, se muestran los principales criterios de inclusión y de exclusión para este estudio.
+
+Se incluyó en el estudio a hombres y mujeres que cumplían los siguientes criterios:
+
+• Tenían 18 años o más.
+
+• Tenían un liposarcoma mixoide avanzado con el tipo de HLA correcto y la proteína NY-ESO-1 en sus células cancerosas.
+
+• Habían recibido quimioterapia para su liposarcoma mixoide antes de comenzar el estudio.
+
+• Eran completamente activos o incapaces de realizar actividades físicas intensas, pero capaces de realizar tareas domésticas o de oficina livianas.
+
+• Contaban con un acceso adecuado a los vasos sanguíneos para la aféresis, un proceso de separación de las células T de la sangre.
+
+• Tenían una función orgánica adecuada.
+
+Se excluyó del estudio a hombres y mujeres que cumplían los siguientes criterios:
+
+• Tenían una enfermedad no controlada, como infecciones en curso por el virus de la inmunodeficiencia humana (VIH), el virus de la hepatitis B (VHB), el virus de la hepatitis C (VHC) o el virus humano linfotrópico T (VHLT), enfermedad cardíaca, enfermedad hepática o enfermedad pulmonar.
+
+• Tenían enfermedades autoinmunitarias crónicas o recurrentes y severos.
+
+• Tenían cáncer cerebral en curso desarrollado a partir de su cáncer y otros tipos de cáncer.
+
+¿Cómo se realizó el estudio?
+
+Este era un estudio abierto, lo que significa que tanto los participantes como su médico del estudio sabían qué medicamento del estudio recibía el participante. El estudio se dividió en dos grupos.
+
+Grupo A: Los 10 primeros participantes que entraron en el estudio se incluyeron en el Grupo A. Los participantes recibieron una dosis reducida de quimioterapia durante tres días antes del Día 1 (Día -7, Día -6 y Día -5). En el Día 1, los participantes recibieron el medicamento del estudio.
+
+Grupo B: Los 10 participantes siguientes se incluyeron en el Grupo B. Los participantes de este grupo recibieron una dosis estándar de quimioterapia durante cuatro días antes del Día 1 (Día -8, Día -7, Día -6 y Día -5).
+
+La quimioterapia que se recibió era una combinación de fludarabina y ciclofosfamida.
+
+Esto ayudaría al participante a prepararse para recibir las células T NY-ESO-1C259.
+
+En el Día 1, los participantes fueron hospitalizados y se administraron dosis de células T NY-ESO-1C259 de uno a ocho mil millones de células directamente por vía intravenosa. Se controló la seguridad de los participantes durante ocho días y se les dio el alta después. Los participantes abandonaron el estudio al cabo de dos años. Se les pidió su consentimiento para participar en un estudio de seguimiento de la seguridad a largo plazo hasta 15 años después de recibir las células T NY-ESO-1C259.
+
+¿Cuáles fueron los principales resultados del estudio?
+
+Los investigadores evaluaron el cáncer de cada participante mediante exploraciones físicas, estudios por imágenes y análisis de sangre. Los investigadores midieron el número de participantes cuyos tumores desaparecieron por completo o parecieron más pequeños en los estudios por imágenes tras iniciar el tratamiento. Esto se denomina tasa de respuesta objetiva (ORR) y se calculó a partir del número total de participantes de cada grupo.
+
+¿Cuáles fueron los efectos secundarios?
+
+Al recibir un medicamento, las personas pueden tener problemas médicos no deseados (eventos adversos). Los médicos del estudio registran estos eventos.
+
+Los efectos secundarios se consideran “serios” si provocaron la muerte, ponen en peligro la vida, provocaron problemas duraderos o requirieron hospitalización.
+
+Un participante (10%) del Grupo A falleció por un ataque al corazón durante el estudio.
+
+Se reportaron efectos secundarios serios en 4 participantes (40%) en el Grupo A y en 6 participantes (60%) en el Grupo B. A continuación se muestran los efectos secundarios serios que reportó al menos un participante en cualquiera de los grupos de tratamiento.
+
+Se reportaron efectos secundarios no serios en 10 participantes (100%) en el Grupo A y en 10 participantes (100%) en el Grupo B. A continuación se muestran los efectos secundarios no serios que reportaron al menos 5 participantes en cualquiera de los grupos de tratamiento.
+
+¿Cómo ha ayudado este estudio a los participantes y a los investigadores?
+
+Los resultados del estudio permitieron comprender mejor que una sola dosis de células T NY ESO-1C259 se puede utilizar para reducir de manera parcial las células cancerosas o para ralentizar el crecimiento del cáncer. Sin embargo, sería necesario seguir investigando debido al reducido número de participantes en el estudio. La mayoría de los efectos secundarios reportados en el estudio fueron manejables.
+
+Título completo de este estudio: Estudio preliminar de células T NY-ESO-1c259en sujetos con liposarcoma mixoide avanzado/de célula redonda.

@@ -1,0 +1,47 @@
+Un estudio sobre seguridad, tolerabilidad y funcionamiento de GSK3745417 en participantes con cáncer hematológico 
+ 
+¿Cuál fue el principal objetivo del estudio?
+ 
+La leucemia mieloide aguda (LMA) y el síndrome mielodisplásico de alto riesgo (SMD -AR) son dos tipos de cáncer hematológico que hacen que el organismo produzca demasiados leucocitos en fase temprana. Se trata de células normalmente defensoras que luchan contra las enfermedades. Estos leucocitos llenan la médula ósea, que es el tejido blando del interior de los huesos donde se fabrican las células sanguíneas. Esta saturación dificulta que la médula ósea produzca células sanguíneas sanas, lo que provoca problemas como anemia (una afección en la que el cuerpo no tiene suficientes hematíes), infecciones y hemorragias. No hay muchas opciones de tratamiento disponibles para las personas cuya LMA o SMD- AR reaparece o no responde a los tratamientos iniciales. Esta situación impulsa a los investigadores a buscar nuevos tratamientos. 
+
+GSK3745417 es un nuevo tipo de medicamento que ayuda al sistema inmunitario, el sistema de defensa del organismo, a luchar contra las enfermedades y a reconocer y atacar mejor las células cancerosas. Además, es capaz de destruir directamente las células de la LMA. Los investigadores se propusieron hallar la mejor dosis de GSK3745417 probando la dosis más alta tolerable sin efectos secundarios graves y conociendo la seguridad a distintos niveles de dosis. Investigaron su potencial como opción de tratamiento para personas con LMA y SMD -AR.
+ 
+¿Qué hicieron los investigadores y qué averiguaron? 
+ 
+Ha habido un total de 18 participantes de 5 países que formaron parte del estudio. 
+
+A continuación se muestran los detalles de los participantes. 
+ 
+Se trató de un estudio abierto, lo que significa que tanto los médicos del estudio como los participantes sabían qué tratamiento se estaba administrando. Este estudio se diseñó para incluir 2 partes. 
+
+Parte 1: Aumento de la dosis 
+• El aumento de la dosis significa aumentar gradualmente la dosis de GSK3745417 administrada a los participantes. Este enfoque tenía como objetivo identificar la dosis máxima tolerada (DMT) más segura y eficaz. 
+• Inicialmente, los participantes recibieron una dosis más baja del medicamento, que se fue aumentando gradualmente para el mismo individuo en función de su tolerabilidad. 
+• Los participantes siguieron un programa de administración consistente en 5 días de tratamiento, seguidos de 2 días de descanso y, a continuación, otros 5 días de tratamiento, con un periodo de descanso de 2 semanas después de cada ciclo (un ciclo total de 28 días). 
+• El estudio determinó los niveles de dosis seguros observando la frecuencia y gravedad de los efectos secundarios durante el estudio.
+ 
+Parte 2: Expansión de dosis 
+• La expansión de la dosis consiste en administrar la dosis más segura y eficaz de un medicamento, identificada en la Parte 1, a un grupo más amplio de participantes para examinar de cerca su seguridad y eficacia. 
+• Los participantes siguieron recibiendo el tratamiento según una rutina establecida para ayudar a mantener los beneficios conseguidos durante la fase inicial. 
+
+ 
+La segunda parte del estudio no se llevó a cabo. El estudio se interrumpió antes de tiempo porque quedó claro que el medicamento probablemente no sería eficaz cuando se utilizara según las necesidades. Durante el estudio, se evaluó continuamente la seguridad de los participantes mediante evaluaciones detalladas, como análisis de sangre y monitorización cardíaca. 
+Se realizaron evaluaciones sanitarias periódicas para garantizar la identificación de cualquier efecto secundario del medicamento del estudio GSK3745417. Se tomaron medidas con prontitud para controlar estos efectos secundarios. Se controló a los participa ntes con frecuencia, especialmente después de recibir su dosis, para asegurarse de que respondían bien y para controlar rápidamente cualquier efecto secundario. 
+ 
+El estudio finalizó antes de lo previsto debido a los resultados de otros estudios que indicaban que el medicamento no era tan eficaz como se pretendía. Es importante señalar que la decisión de interrumpir el estudio por parte del patrocinador, GSK, no se debió a ningún problema de seguridad relacionado con el medicamento GSK3745417. Se permitió que los participantes que seguían beneficiándose del tratamiento continuaran recibiéndolo bajo estrecha supervisión. La atención se centró en garantizar la seguridad de los participantes durante todo el ensayo, y se realizaron evaluaciones de seguimiento tras la finalización del estudio. 
+ 
+¿Cuáles fueron los efectos secundarios graves que surgieron durante el estudio? 
+
+Los efectos secundarios se consideran “graves” si provocan la muerte, ponen en peligro la vida, causan problemas duraderos o requieren atención hospitalaria. Se notificaron dos efectos secundarios graves: una respuesta inmunitaria hiperactiva en un participante que recibió la dosis de 200 mcg y presión arterial baja al estar de pie en un participante que recibió la dosis de 300 mcg de GSK3745417. 
+No se produjeron muertes causadas por GSK3745417 en este estudio. 
+
+¿Cuáles fueron los efectos secundarios no graves que surgieron durante el estudio?
+ 
+Se notificaron un total de 16 efectos secundarios no graves, considerados relacionados con GSK3745417, en 14 participantes en el estudio que recibieron cualquiera de las siguientes dosis: 12,5 mcg, 50 mcg, 100 mcg, 200 mcg y 300 mcg. 
+Se notificó un efecto secundario no grave: vómitos en un participante que recibió la dosis de 12,5 mcg. Se notificaron tres efectos secundarios no graves en participantes que recibieron la dosis de 50 mcg: dolor óseo, aumento de los niveles de creatinina (un producto químico de desecho) en la sangre y respuesta inmunitaria hiperactiva, cada uno de ellos en un participante diferente. 
+Los participantes que recibieron las dosis de 100 mcg, 200 mcg y 300 mcg notificaron un total de 13 efectos secundarios no graves. 
+
+¿Qué significan estos hallazgos?
+ 
+Los investigadores descubrieron que GSK3745417 fue bien tolerado. 
+El medicamento no mostró una mejora suficiente de la eficacia para justificar la continuación del estudio. La decisión de interrumpir el ensayo no se debió a problemas de seguridad, y la información recopilada podría ser beneficiosa para futuras investigaciones y posibles ajustes del medicamento para mejorar su eficacia.

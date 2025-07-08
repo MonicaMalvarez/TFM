@@ -1,0 +1,105 @@
+Estudio para evaluar la seguridad de la dosis de refuerzo de la vacuna
+
+Información general sobre el estudio 
+
+¿Cuál fue el propósito principal del estudio?
+
+La enfermedad por coronavirus (COVID-19) es una infección causada por un tipo de virus llamado coronavirus. Generalmente, afecta a los pulmones y las vías respiratorias. La siguiente figura muestra algunos de los síntomas principales y la vía de transmisión del COVID-19.
+
+Por lo general, las vacunas brindan protección contra diferentes tipos de virus del COVID-19. Sin embargo, se ha descubierto que las recientes variantes emergentes del virus del COVID-19 escapan a la protección que ofrecen las vacunas. De ahí la necesidad de desarrollar vacunas que puedan proporcionar niveles de protección más amplios.
+
+Es la primera vez que se realiza un estudio con esta vacuna en humanos.
+
+Los investigadores evaluaron si la vacuna GSK4396687A (vacuna de ARNm CV2CoV) recientemente desarrollada era segura cuando se administraba como dosis de refuerzo (dosis que aumenta el efecto de una vacuna administrada previamente) en participantes adultos. También evaluaron a los participantes después de la vacunación para detectar efectos adversos frecuentes y esperados.
+
+¿Cuándo y dónde se llevó a cabo el estudio?
+
+Este estudio contó con la participación de personas de Estados Unidos.
+
+¿Quién participó en el estudio?
+
+Como se muestra en la siguiente figura, en este estudio participó un total de 98 participantes que recibieron una dosis de la vacuna GSK4396687A (vacuna de ARNm CV2CoV).
+
+Los estudios tienen una lista de requisitos que definen a los participantes que pueden participar en el estudio (criterios de inclusión) y a los que no pueden hacerlo (criterios de exclusión). A continuación, se muestran los principales criterios de inclusión y de exclusión para este estudio.
+
+Se incluyó en el estudio a participantes que cumplían, especialmente, los siguientes criterios:
+
+• Tenían como mínimo 18 años.
+
+• Habían recibido al menos dos dosis de la vacuna de ARNm* contra el COVID-19, con la última dosis administrada entre 6 y 18 meses antes del inicio del estudio.
+
+*ARNm: ácido ribonucleico mensajero (un tipo de material genético que interviene en la formación de proteínas)
+
+Se excluyó del estudio a los participantes que cumplían los siguientes criterios:
+
+• Tenían alergia grave a algún componente de la vacuna.
+
+• Tenían antecedentes de trastornos del sistema nervioso o autoinmunes (el sistema inmunitario del organismo ataca al cuerpo en lugar de protegerlo) o cualquier otro problema de órganos importantes del cuerpo.
+
+• Tenían antecedentes de trastornos del corazón.
+
+• Habían obtenido resultados positivos en las pruebas de detección de COVID-19 dentro de los 6 meses anteriores al inicio del estudio.
+
+¿Qué medicamentos se estudiaron?
+
+La vacuna GSK4396687A (vacuna de ARNm CV2CoV) se administró como una dosis única de 0.3 ml (mililitro) en el músculo del hombro (intramuscular, IM) del brazo no dominante. Las diferentes dosis de la vacuna GSK4396687A (vacuna de ARNm CV2CoV) utilizadas se muestran en la siguiente figura.
+
+¿Qué sucedió durante el estudio?
+
+Este fue un estudio abierto en el que tanto los médicos del estudio como los participantes conocían la vacuna y sus dosis. En el estudio se inscribieron participantes pertenecientes a dos grupos de edad: adultos jóvenes (a partir de los 18 años y menores de 65 años) y adultos mayores (a partir de los 65 años).
+
+Los participantes se dividieron secuencialmente en 5 grupos. A cada grupo se le asignó una dosis de vacuna específica, como se muestra a continuación.
+
+La vacuna se administró el día 1 y se evaluó la seguridad de los participantes el día 8. El día 1 de vacunación en el grupo posterior, comenzó tras la evaluación de seguridad del día 8 del grupo anterior. Los adultos mayores recibieron la vacuna después de los adultos jóvenes.
+
+Se hizo un seguimiento de los participantes durante 6 meses luego de recibir la vacunación. La siguiente figura muestra el diseño del estudio en detalle.
+
+¿Cuáles fueron los principales resultados del estudio?
+
+En este estudio, los investigadores evaluaron el porcentaje de participantes con eventos adversos que requirieron atención médica (MAAE, medically attended adverse event), eventos adversos serios (SAE, serious adverse event) y eventos adversos de interés especial (AESI, AE of special interest). Los investigadores también analizaron los eventos adversos solicitados en el plazo de una semana y los no solicitados hasta 28 días después de la vacunación del estudio.
+
+Un total de 9 (9%) participantes reportaron eventos adversos que requirieron atención médica. La siguiente figura muestra el tipo de eventos adversos que requirieron atención médica reportados por al menos el 5% o más de los participantes en cada grupo.
+
+- Masa anormal similar a un cálculo en la vesicula biliar
+- COVID-19
+- Infección de nariz y de garganta por bacterias
+- Falta de sueño
+- Ampollas dolorosas causadas por una infección vírica
+- Habla arrastrada
+- Desgarro de los tejidos que unen los músculos a los huesos
+
+Un total de 2 (2%) participantes reportaron eventos adversos serios. La siguiente figura muestra la cantidad y el porcentaje de participantes que reportaron eventos adversos serios.
+
+Se notificó que 6 (6%) participantes dieron positivo para COVID-19, lo que constituyó un evento adverso de interés especial. La siguiente figura muestra la cantidad y el porcentaje de participantes que reportaron COVID-19.
+
+¿Cuáles fueron los efectos secundarios serios durante este estudio?
+
+En este estudio no se reportaron efectos secundarios serios ni muertes debido a la vacuna del estudio.
+
+¿Cuáles fueron los efectos secundarios no serios durante este estudio?
+
+Se informaron dos tipos de efectos secundarios no serios en este estudio.
+
+• Porcentaje de participantes con efectos secundarios enumerados en la tarjeta del diario dentro de los 7 días siguientes a la vacunación.
+
+• Porcentaje de participantes con efectos secundarios hasta 28 días después de la vacunación.
+
+Un total de 75 (77%) participantes reportaron al menos un síntoma en la tarjeta del diario dentro de los 7 días siguientes a la vacunación. La siguiente figura muestra una representación detallada de esto.
+
+- Escalofríos
+- Glándulas del sistema inmunitario agrandadas
+- Fiebre
+- Dolor de cabeza
+- Dolor articular
+- Mialgia
+- Dolor en la zona de la inyección
+- Enrojecimiento en la zona de la inyección
+- Cansancio
+
+Un total de 3 (3%) participantes reportaron 4 síntomas causados por la vacuna del estudio, después de 7 días pero dentro de los 28 días siguientes a la vacunación. La siguiente figura muestra la cantidad de participantes que reportaron estos síntomas.
+
+¿Cómo ha ayudado este estudio a los participantes y a los investigadores?
+
+Los investigadores obtuvieron información valiosa sobre esta vacuna y la experiencia de los participantes al recibirla. La mayoría de los eventos médicos adversos inesperados durante el estudio fueron de intensidad leve y se resolvieron pocos días después de la vacunación. Ninguno de los MAAE, AESI o SAE reportados tuvo relación con la vacuna del estudio. Los efectos secundarios notificados en este estudio eran de esperar y no se notificaron inquietudes importantes con respecto a la seguridad.
+
+Título completo de este estudio: Ensayo de fase 1 abierto para evaluar la seguridad, reactogenicidad e inmunogenicidad de la vacuna de ARNm CV2CoV contra el SARS-CoV-2 en participantes adultos seropositivos

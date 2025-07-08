@@ -1,0 +1,109 @@
+Información general sobre el estudio
+
+¿Cuál fue el principal objetivo del estudio?
+
+El mieloma múltiple (MM) es un cáncer de las células plasmáticas. Las células plasmáticas son leucocitos que producen anticuerpos (una proteína de la sangre que protege al organismo frente a las infecciones).
+
+A veces, el MM no causa ningún síntoma. Sin embargo, en casos de enfermedad avanzada, los síntomas pueden incluir dolor óseo (especialmente en la espalda o las costillas), fiebre sin motivo conocido, infecciones frecuentes, sangrado inusualmente fácil o frecuente, debilidad de brazos o piernas y sensación de fatiga.
+
+Diversos medicamentos y tratamientos combinados han demostrado su eficacia en el tratamiento del MM. Sin embargo, la mayoría de las personas con MM desarrollan resistencia a los tratamientos y el cáncer vuelve a crecer. Esto se denomina mieloma múltiple recidivante/refractario o MMRR.
+
+El belantamab mafodotin es un tipo de medicamento diseñado para destruir únicamente las células plasmáticas anormales sin afectar a las células plasmáticas sanas. Los investigadores de este estudio evaluaron si es seguro y efectivo administrar belantamab mafodotin con pembrolizumab en personas con MMRR. Una inyección de pembrolizumab ayuda al sistema de defensa del organismo a ralentizar o detener el crecimiento y la propagación de las células cancerosas.
+
+¿Cuándo y dónde se realizó el estudio?
+
+Ha habido un total de 41 participantes de 4 países que formaron parte del estudio. El siguiente mapa ofrece más información.
+
+¿Quién participó en el estudio?
+
+Los estudios tienen una lista de requisitos que definen a los participantes que pueden participar y a los que no.
+
+En el estudio se incluyeron hombres y mujeres con MM que cumplían las siguientes condiciones:
+
+• Tenían al menos 18 años.
+
+• Podían cuidar de sí mismos y realizar las actividades cotidianas.
+
+• Se habían sometido a una sustitución de células sanguíneas dañadas o enfermas por células sanas, o no cumplían los requisitos para ello.
+
+• Recibieron un tratamiento con al menos 3 líneas de tratamientos contra el mieloma.
+
+• Tenían MM medible, evaluado por niveles anormales elevados de proteínas en la sangre o la orina.
+
+Se excluyó del estudio a hombres y mujeres si cumplían las siguientes condiciones:
+
+• Recibieron un tratamiento previo para el MM durante menos de 14 días o se sometieron a un procedimiento de limpieza de sangre en los 7 días anteriores al inicio del estudio.
+
+• Recibieron un tratamiento con anticuerpo monoclonal (proteínas fabricadas artificialmente que actúan como anticuerpos) en los 30 días previos al inicio del estudio.
+
+• Interrumpieron un tratamiento debido a efectos secundarios graves que dañaron la inmunidad de su organismo.
+
+¿Qué medicamentos se estudiaron?
+
+Ambos medicamentos se administraron directamente en el torrente sanguíneo insertando un catéter en una vena.
+
+¿Qué sucedió durante el estudio?
+
+Este estudio era un estudio abierto. Quiere decir que los participantes y sus médicos del estudio sabían qué tratamiento recibían los participantes. El estudio se realizó en dos partes.
+
+Parte 1: Estudio de aumento escalonado de dosis En la parte 1, los investigadores analizaron cómo reaccionaba el organismo a belantamab mafodotin con diferentes niveles de dosis para destruir las células cancerosas del mieloma cuando se administraba con pembrolizumab. Cada grupo (grupo 1 y grupo 2) de participantes recibió un nivel de dosis diferente de belantamab mafodotin. El grupo 1 recibió el nivel de dosis 1, que fue de 2,5 mg/kg de belantamab mafodotin con 200 mg de pembrolizumab. Si no hubo problemas con el nivel de dosis, el grupo 2 recibió el nivel de dosis 2, que fue de 3,4 mg/kg de belantamab mafodotin con 200 mg de pembrolizumab. Sin embargo, la dosis de pembrolizumab siguió siendo la misma en todos los ciclos (1 ciclo = 21 días).
+
+Si alguna dosis resultaba perjudicial para los participantes en algún momento, dejaba de aumentarse el nivel de la dosis. Una vez identificada la mejor dosis de belantamab mafodotin en la parte 1, el estudio continuó con la parte 2.
+
+Parte 2: Estudio de expansión de dosis La parte 2 del estudio se llevó a cabo para analizar los efectos de la mejor dosis de belantamab mafodotin en la parte 1 junto con pembrolizumab en participantes con MMRR.
+
+Los investigadores, basándose la información de la parte 1, identificaron que la mejor dosis de belantamab mafodotin era de 2,5 mg/kg. Se administró a un total de 28 participantes la dosis de 2,5 mg/kg de belantamab mafodotin junto con la dosis fija de 200 mg de pembrolizumab.
+
+Los participantes tanto de la parte 1 como de la parte 2 recibieron primero belantamab mafodotin, seguido de al menos 1 hora de descanso, y pembrolizumab se administró como segundo medicamento el día 1 de cada ciclo. Se permitió a los participantes continuar el tratamiento del estudio durante un máximo de 2 años, a menos que notificaran algún efecto secundario grave o progresión del cáncer.
+
+¿Cuáles fueron los principales resultados del estudio?
+
+En la parte 1, los investigadores evaluaron la seguridad junto con toxicidades limitantes de la dosis (TLD). Las TLD se definen por la aparición de toxicidades graves durante el primer ciclo del tratamiento oncológico. La información de seguridad se presenta en la sección de seguridad de este documento. No se notificaron TLD en la parte 1 del estudio.
+
+También evaluaron la tasa general de respuesta (TGR) en la parte 2. La TGR es el porcentaje de participantes cuyo cáncer se reduce o desaparece tras el tratamiento.
+
+En la parte 2 del estudio, se observó una TGR del 43 % (12 de 28 participantes).
+
+¿Cuáles fueron los efectos secundarios/las reacciones adversas notificados durante el estudio?
+
+Esta sección es un resumen de los problemas médicos no deseados (efectos secundarios/reacciones adversas) que pueden padecer los participantes al recibir un medicamento. Los médicos del estudio dejan constancia de estos acontecimientos.
+
+¿Que son los efectos secundarios?
+
+Los efectos secundarios o las reacciones adversas son los acontecimientos que, en opinión del médico del estudio, pueden haber sido causados por el medicamento del estudio.
+
+Los efectos secundarios se consideran “graves” si provocan la muerte, ponen en peligro la vida, causan problemas duraderos o requieren atención hospitalaria.
+
+Puede encontrar un resumen de todos estos acontecimientos en los sitios web que figuran al final de este resumen.
+
+¿Cuáles fueron los efectos secundarios graves que surgieron durante el estudio?
+
+No murió ninguno de los participantes del estudio a causa de los efectos secundarios.
+
+¿Cuáles fueron los efectos secundarios no graves que surgieron durante el estudio?
+
+Al menos un 20 % de los participantes notificaron los siguientes efectos secundarios no graves:
+
+- Lagrimeo anormal
+- Visión borrosa
+- Ojo seco
+- Enfermedad ocular que daña la capa externa del cristalino
+- Dolor ocular
+- Fiebre
+- Hipertensión ocular
+- Aumento en los niveles de una proteína del hígado (aspartato aminotransferasa) en sangre
+- Niveles de plaquetas en sangre inferior al normal
+- Reacción debida a la perfusión de medicamentos
+- Sensibilidad a la luz
+- Hinchazón de los párpados
+- Cansancio
+- Niveles muy bajos de neutrófilos (un tipo de glóbulo blanco que protege al organismo frente a las infecciones)
+
+¿Cómo ha ayudado este estudio a los participantes y a los investigadores?
+
+Este estudio demostró que la combinación de 2,5 mg/kg de belantamab mafodotin y 200 mg de pembrolizumab, administrada cada 3 semanas, era segura en participantes con mieloma múltiple. La combinación también mostró una tasa general de respuesta (TGR) del 43 % en la parte 2. En este estudio no se observaron problemas de seguridad importantes.Nombres del estudio
+
+Título breve: Estudio para comparar terapia triple con terapia doble en pacientes con asma mal controlada.
+
+Título científico completo: Estudio fase III, aleatorizado, doble ciego, con control activo, de grupos paralelos para comparar la eficacia, seguridad y tolerabilidad de la combinación a dosis fija de furoato de futiclasona, umeclidinio y vilanterol frente a la combinación doble de dosis fija de furoato de futiclasona/volanterol, administrado una vez al día con inhalador de polvo seco, en sujetos con asma controlada inadecuadamente.
+

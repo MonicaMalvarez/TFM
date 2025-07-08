@@ -1,0 +1,91 @@
+Nombres del estudio Título breve: Estudio para comparar cinco dosis diferentes de danirixin con un placebo en pacientes con enfermedad pulmonar obstructiva crónica (EPOC).
+
+Título científico completo: Estudio aleatorizado, doble ciego (abierto para el promotor), controlado con placebo, multicéntrico, de búsqueda de dosis para evaluar la eficacia y la seguridad de comprimidos de Danirixin, administrados dos veces al día, comparado con placebo durante 24 semanas en participantes adultos con enfermedad pulmonar obstructiva crónica (EPOC).
+
+¿Cuándo se hizo este estudio?
+
+El estudio comenzó en abril de 2017 y finalizó en octubre de 2018.
+
+¿Cuál era el objetivo principal de este estudio?
+
+La enfermedad pulmonar obstructiva crónica (EPOC) es una enfermedad a largo plazo de los pulmones que dificulta la respiración y empeora a lo largo del tiempo. Los pacientes que padecen EPOC presentan una inflamación de las vías respiratorias o de los pulmones.
+
+Esta inflamación puede provocar falta de aliento, tos y opresión en el pecho. Para el tratamiento de la EPOC es importante disminuir la intensidad de los síntomas.
+
+El danirixin es un medicamento que disminuye la inflamación. Se hizo un estudio para ver si podía disminuir los síntomas de EPOC de los pacientes. En este estudio, los investigadores querían ver cómo funcionaban cinco dosis diferentes de danirixin en la disminución de los síntomas de la EPOC, en comparación con un placebo (sin medicamento activo), al añadirla a los medicamentos habituales para la EPOC de los pacientes. El estudio también evaluó la seguridad del danirixin.
+
+¿Qué medicamentos se estudiaron?
+
+Durante el estudio, se incluyó a los pacientes, de manera aleatoria (asignación al azar), en uno de los siguientes seis grupos de tratamiento:
+
+Placebo
+Danirixin , 5 miligramos (mg)
+Danirixin , 10 mg
+Danirixin , 25 mg
+Danirixin , 35 mg
+Danirixin , 50 mg
+
+Los pacientes tomaron placebo o comprimidos de danirixin, dos veces al día, durante seis meses. Ni los pacientes ni los médicos del estudio sabían quién estaba recibiendo cada tratamiento. Esto se llama estudio con doble enmascaramiento.
+
+¿A qué pacientes se incluyó en este estudio?
+
+Los estudios tienen una lista de requisitos que definen a los pacientes que pueden participar (criterios de inclusión) y a los que no (criterios de exclusión). Los principales criterios de inclusión y de exclusión de este estudio se muestran a continuación.
+
+En el estudio se incluyó a hombres y mujeres que cumplían las siguientes condiciones:
+
+Tenían de 40 a 80 años de edad.
+
+Eran o habían sido fumadores.
+
+Sufrían EPOC con síntomas como tos prolongada, aumento de flemas y falta de aliento, la mayor parte de los días, durante al menos tres meses antes de empezar el estudio.
+
+Tenían antecedentes de empeoramiento moderado o grave de los síntomas de la EPOC (exacerbaciones) que necesitaron tratamiento u hospitalización durante el año anterior al comienzo del estudio.
+
+Se excluyó del estudio a los hombres y mujeres si cumplían las siguientes condiciones:
+
+Problemas pulmonares diferentes de la EPOC.
+
+Se habían sometido a una pulmones antes de que empezara el estudio.
+
+Una enfermedad genética específica que hubiera provocado la EPOC.
+
+Enfermedad del hígado o del corazón.
+
+Neumonía durante los tres meses anteriores al comienzo del estudio.
+
+Otras enfermedades o uso de determinados medicamentos que, según el criterio del médico del estudio, podrían afectar a los resultados del estudio.
+
+Un total de 614 pacientes recibieron al menos una dosis del medicamento del estudio.
+
+¿Dónde se hizo este estudio?
+
+Los centros del estudio se encontraban en nueve países.
+
+¿Cuáles fueron los resultados globales del estudio?
+
+En este estudio, los pacientes puntuaron sus síntomas de EPOC (falta de aliento, producción de flemas y tos, opresión y congestión en el pecho) una vez al día, utilizando la herramienta de evaluación de los síntomas respiratorios en la EPOC (E-RS: EPOC).
+
+Esta herramienta ayuda a medir la gravedad de los síntomas de EPOC, donde las puntuaciones más altas indican síntomas más graves.
+
+Para cada paciente, se calculó la diferencia entre E-RS: EPOC en la semana anterior al tratamiento del estudio (valor basal) y en el 6º mes. Estas diferencias en las puntuaciones de los pacientes dentro de cada grupo de tratamiento se combinaron y promediaron para obtener el cambio con respecto a las puntuaciones basales. Una disminución de la puntuación media de E-RS: EPOC en el 6º mes, en comparación con la puntuación basal, indica una disminución de los síntomas de EPOC durante el estudio.
+
+El grupo que recibió un placebo mostró la mayor disminución del cambio medio desde el valor basal en la puntuación de E-RS: EPOC. Esto significa que el grupo que recibió un placebo mostró una mayor disminución de los síntomas de EPOC en el 6º mes, en comparación con todos los grupos tratados con danirixin.
+
+¿Cuáles fueron los efectos secundarios?
+
+Al recibir un medicamento, las personas pueden presentar acontecimientos médicos no deseados (acontecimientos adversos). Los médicos del estudio dejan constancia de estos acontecimientos. Puede encontrar un resumen de todos estos acontecimientos en los resúmenes de los resultados científicos (consulte los enlaces al final de este documento).
+
+Si el médico del estudio piensa que el acontecimiento fue causado por el medicamento del estudio, dejará constancia del mismo como un posible efecto secundario (reacción adversa).
+
+En los estudios con enmascaramiento, el médico no sabe qué medicamento del estudio está tomando el paciente. En algunos casos, se asignarán efectos secundarios al placebo.
+
+Un paciente del grupo que recibió 50 mg de danirixin tuvo un efecto secundario grave de neumonía. Ningún paciente de ningún otro grupo de tratamiento presentó efectos secundarios graves.
+
+La siguiente tabla muestra los efectos secundarios no graves notificados por más de un paciente de cualquier grupo de tratamiento.
+
+Diarrea
+Infección de la nariz y la garganta (resfriado común)
+
+¿Cómo ha ayudado este estudio a los pacientes y a los investigadores?
+
+Se trató de un estudio de fase II. El propósito de un estudio de fase II es recopilar información sobre la seguridad del medicamento. Además, puede proporcionar información temprana sobre en qué medida funciona bien el medicamento contra la enfermedad. Este estudio demostró que el danirixin no ofrecía ningún beneficio para la disminución de los síntomas de la EPOC. Los efectos secundarios notificados en este estudio fueron similares entre los grupos de tratamiento.

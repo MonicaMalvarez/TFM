@@ -1,0 +1,151 @@
+Información general sobre el estudio 
+
+¿Cuál fue el propósito principal del estudio?
+
+El cáncer avanzado y metastásico es un tipo de cáncer que se extendió del sitio original a otras partes del cuerpo, por lo que es más difícil de tratar. Se demostró que muchos tratamientos son eficaces en el tratamiento del cáncer. Sin embargo, con el tiempo, la mayoría de los tumores desarrollan resistencia al tratamiento y el cáncer vuelve a aparecer (regresa) y se extiende (avanza). Los investigadores están trabajando en nuevos tratamientos que combinan diferentes medicamentos para ayudar a quienes tienen cánceres que se extienden.
+
+Este estudio es el primero en evaluar la combinación de distintos medicamentos (dostarlimab, niraparib, carboplatino-paclitaxel, carboplatino-pemetrexed, bevacizumab y cobolimab) para tratar el cáncer avanzado o metastásico.
+
+• El dostarlimab y el cobolimab son medicamentos diseñados para detener el crecimiento del cáncer ya que ayuda al sistema inmunitario a reconocerlo y combatirlo (moduladores de respuesta inmunitaria).
+
+• El niraparib, también denominado ZEJULA, y el bevacizumab están aprobados para tratar a los participantes con varios tipos de cáncer. El niraparib es un medicamento que inhibe la reparación del ácido desoxirribonucleico (ADN) dañado en la célula y el bevacizumab inhibe el crecimiento de nuevos vasos sanguíneos (agente antiangiogénico).
+
+• El carboplatino-paclitaxel y el carboplatino-pemetrexed son tratamientos quimioterápicos aprobados para el tratamiento de diferentes cánceres.
+
+Los investigadores de este estudio evaluaron la seguridad y la tolerabilidad para ver si estos medicamentos en conjunto podían mejorar la respuesta inmunitaria del organismo para combatir el cáncer avanzado eficazmente.
+
+¿Cuándo y dónde se llevó a cabo el estudio?
+
+El estudio comenzó en octubre de 2017 y terminó en abril de 2023.
+
+Notablemente, los participantes que se beneficiaron de este estudio siguieron participando en la siguiente fase de este, la continuación del tratamiento después del análisis (PACT, post analysis continuation of treatment).
+
+Este estudio incluyó a 58 participantes de los Estados Unidos que recibieron al menos una dosis de los medicamentos del estudio.
+
+¿Quién participó en el estudio?
+
+En un principio, se planeó que el estudio se llevara a cabo en nueve partes.
+
+Cuando se completó el estudio, solo se inscribieron suficientes participantes en cinco partes (etiquetadas de la A a la E). En una parte (la Parte F) solo se inscribió un participante y en otras tres partes (G, H e I) no se inscribió ninguno.
+
+Estos eran los detalles de los participantes:
+
+En la Parte E, se incluyeron dos participantes masculinos de entre 55 y 85 años.
+
+En la Parte F, se incluyó una participante femenina de entre 50 y 65 años.
+
+Los estudios tienen una lista de requisitos que definen a los participantes que pueden participar en el estudio y a los que no pueden hacerlo.
+
+Se incluyó en el estudio a hombres y mujeres mayores de 18 años con cáncer avanzado o metastásico confirmado que cumplían los siguientes criterios:
+
+No habían pasado por más de cuatro rondas de tratamiento para el cáncer (Partes A y C).
+
+Eran aptos para el tratamiento con carboplatino-paclitaxel y no habían tenido más de una ronda de quimioterapia (Parte B).
+
+Eran aptos para el tratamiento con carboplatino-paclitaxel y bevacizumab y no habían tenido más de una ronda de quimioterapia (Parte D).
+
+Se les había diagnosticado cáncer de pulmón de células no pequeñas y no habían recibido tratamiento previo para su enfermedad (Partes E y F).
+
+No se incluyó en el estudio a hombres y mujeres que cumplían los siguientes criterios:
+
+Se les había diagnosticado cáncer cerebral o de la médula espinal, o ambos.
+
+Su cáncer había empeorado o necesitado tratamiento en los últimos dos años.
+
+Se les había diagnosticado una infección en curso que necesitaba tratamiento para todo el cuerpo.
+
+¿Qué medicamentos se estudiaron?
+
+- Bevacizumab
+- Dostarlimab
+- Carboplatino
+- Niraparib
+- Pemetrexed
+- Cobolimab
+- Paclitaxel
+
+¿Qué sucedió durante el estudio?
+
+Fue un estudio abierto. Eso quiere decir que tanto los participantes como los médicos del estudio sabían qué tratamiento recibían los participantes.
+
+Los investigadores evaluaron la mejor dosis de los tratamientos de combinación en distintas partes con las toxicidades limitantes de dosis (DLT, Dose-Limiting Toxicities). Las DLT se definen como las toxicidades graves (efectos secundarios muy serios) que se observaron durante el primer ciclo de tratamiento del cáncer.
+
+Los participantes de cada parte recibieron un tratamiento de combinación diferente en ciclos (1 ciclo = 21 días).
+
+A continuación, se encuentra el diseño del estudio, que muestra más detalles.
+
+Los investigadores descubrieron que, en la Parte A, los participantes toleraban 500 mg de dostarlimab cada 3 semanas de 4 a 6 ciclos, seguidos de 1000 mg de dostarlimab cada 6 semanas junto con 200 (o 300 mg) de niraparib diarios repetidos cada 3 semanas.
+
+En la Parte B, se consideró que los participantes toleraban 500 mg de dostarlimab cada 3 semanas seguidos de 1000 mg de dostarlimab cada 6 semanas junto con carboplatino y paclitaxel cada 3 semanas de 4 a 6 ciclos, tal como indicaban los médicos del estudio.
+
+En la Parte C, se consideró que los participantes toleraban 500 mg de dostarlimab cada 3 semanas de 4 a 6 ciclos seguidos de 1000 mg de dostarlimab cada 6 semanas junto con 200 (o 300 mg) de niraparib diarios repetidos cada 3 semanas y bevacizumab cada 3 semanas.
+
+Como no se observaron DLT para las Partes D, E y F, no se llevó a cabo una evaluación formal de la dosis segura recomendada para estas partes del estudio.
+
+Se permitió que los participantes de las Partes A, B y C continuaran el tratamiento del estudio a menos que informaran efectos secundarios graves, su cáncer avanzara, murieran o el médico del estudio les aconsejara detener el tratamiento.
+
+¿Cuáles fueron los principales resultados del estudio?
+
+Los investigadores evaluaron la seguridad junto con las toxicidades limitantes de la dosis (DLT) de este estudio. Los detalles acerca de la seguridad están en la sección de los efectos secundarios en este documento.
+
+Se informaron cinco DLT (efectos secundarios muy serios) en este estudio después de terminar el ciclo 1 (primeros 21 días de tratamiento).
+
+Parte A: En la Parte A, se observaron dos DLT relacionadas con 200 mg de niraparib. Los participantes informaron presión arterial alta e hinchazón del revestimiento interno de las membranas mucosas (nariz, boca o estómago).
+
+Parte B: En la Parte B, se observó una DLT relacionada con el tratamiento de combinación de dostarlimab, carboplatino y paclitaxel. Los participantes informaron un aumento de los niveles de la proteína del hígado llamada aspartato aminotransferasa en la sangre.
+
+Parte C: En la Parte C, se informaron dos DLT relacionadas con 200 mg de niraparib, bevacizumab y dostarlimab. Los participantes notificaron el desgarro del revestimiento interno de un vaso sanguíneo y niveles bajos de leucocitos.
+
+No se informaron DLT en la Parte D ni en la Parte E.
+
+¿Cuáles fueron los efectos secundarios/reacciones adversas informados durante el estudio?
+
+Esta sección es un resumen de los problemas médicos no deseados (eventos adversos) que pueden ocurrirles a los participantes cuando reciben un medicamento. Los médicos del estudio registran estos eventos.
+
+¿Qué son los efectos secundarios?
+
+Los efectos secundarios o las reacciones adversas son aquellos eventos que el médico del estudio cree que pueden haber sido causados por el medicamento del estudio.
+
+Los efectos secundarios se consideran “serios” si causan la muerte, ponen en peligro la vida, causan problemas duraderos o requieren atención hospitalaria.
+
+¿Cuáles fueron los efectos secundarios serios durante este estudio?
+
+Los efectos secundarios serios informados por los participantes en las Partes A, B y C fueron los siguientes.
+
+- Sangrado en el cerebro y a su alrededor
+- Infección del hígado por un virus
+- Inflamación o hinchazón del revestimiento interno de la nariz, la boca o el estómago
+- Niveles de plaquetas (pequeñas células sanguíneas) inferiores a los normales
+- Nivel de sodio en sangre inferior a lo normal
+- Hinchazón de las células pulmonares
+- Desgarro del revestimiento interno de un vaso sanguíneo
+- Niveles muy bajos de neutrófilos (un tipo de glóbulo blanco)
+
+Los participantes no informaron efectos secundarios serios relacionados con los medicamentos del estudio en las Partes D y E.
+
+No se informaron muertes en ninguna de las partes desde la Parte A hasta la E debido a los medicamentos del estudio.
+
+¿Cuáles fueron los efectos secundarios no serios durante este estudio?
+
+Al menos un 40 % de los participantes informaron los siguientes efectos secundarios no serios en alguna parte del estudio.
+
+- Diarrea
+- Pérdida de pelo
+- Presión arterial alta
+- Niveles de una proteína del hígado (fosfatasa alcalina) en sangre superiores a lo normal
+- Aumento de los niveles de una proteína (fosfatasa alcalina) en la sangre
+- Inflamación o hinchazón del revestimiento interno de la nariz, la boca o el estómago
+- Niveles bajos de leucocitos
+- Niveles de hemoglobina (proteína de los glóbulos rojos) inferiores a los normales
+- Cansancio/debilidad
+- Ganas de vomitar
+- Niveles muy bajos de neutrófilos (un tipo de glóbulo blanco)
+- Pérdida de peso
+
+¿Cómo ha ayudado este estudio a los participantes y a los investigadores?
+
+Los investigadores concluyeron que los participantes con cáncer avanzado o metastásico toleraban bien que se les dieran 500 mg de dostarlimab el día 1 cada 3 semanas seguidos de 1000 mg de dostarlimab cada 6 semanas durante los primeros 4 ciclos. Se recomendó seguir evaluando esta dosis.
+
+En el estudio, no se revelaron efectos secundarios nuevos ni cambió lo sabido acerca de la seguridad y la tolerabilidad de los medicamentos. Como el estudio se diseñó para evaluar la seguridad y los participantes tenían varios tipos de cáncer, no había suficiente información sobre cada tipo de cáncer para llegar a ninguna conclusión sobre la eficacia.
+
+Título completo de este estudio: Estudio fase 1b de búsqueda de dosis de quimioterapia doble basada en platino, niraparib, TSR-022 y bevacizumab en combinación con TSR-042 en pacientes con cáncer avanzado o metastásico

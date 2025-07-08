@@ -1,0 +1,135 @@
+Información general sobre el estudio clínico 
+
+¿Cuándo se hizo este estudio?
+
+El estudio comenzó en octubre de 2016 y finalizó en febrero de 2019.
+
+¿Cuál era el objetivo principal de este estudio?
+
+El asma es una enfermedad crónica de las vías respiratorias. Las vías respiratorias se estrechan cuando se inflaman. Este estrechamiento puede provocar tos, sibilancias, opresión en el pecho y falta de aliento (dificultad para respirar). En los pacientes con asma, los medicamentos inhalados son una parte importante del tratamiento.
+
+Uno de los tratamientos aprobados para el asma es una combinación de dos medicinas inhaladas (terapia doble). No obstante, es posible que la terapia doble no sea suficiente para controlar los síntomas en pacientes con asma de moderada a grave. GSK ha desarrollado una combinación de tres medicamentos inhalados (terapia triple) mediante la adición de umeclidinio a la terapia doble. Los investigadores querían ver cómo la adición de umeclidinio a la terapia doble mejoraba la función pulmonar de los pacientes, en comparación con la terapia doble sola, en pacientes con asma mal controlada.
+
+¿Qué medicamentos se estudiaron?
+
+Los pacientes se asignaron a uno de seis grupos de tratamiento aleatoriamente (asignación al azar). En este estudio se utilizaron cuatro dosis diferentes de terapia triple y dos dosis diferentes de terapia doble (como se muestra en la figura siguiente).
+
+Furoato de fluticasona
+
+Vilanterol
+
+Umeclidinio 
+
+El furoato de fluticasona es un corticoesteroide inhalado (ICS, por sus siglas en inglés), un medicamento inhalado que reduce la inflamación de los pulmones.
+
+El vilanterol es un agonista beta de acción prolongada (LABA, por sus siglas en inglés) inhalado. El umeclidinio es un antagonista muscarínico de acción prolongada (LAMA, por sus siglas en inglés) inhalado. Ambos, LABA y LAMA, son diferentes tipos de broncodilatadores.
+
+Los broncodilatadores son medicamentos que relajan y abren las vías respiratorias de los pulmones.
+
+Ni los pacientes ni los médicos del estudio sabían quién estaba recibiendo cada tratamiento. Esto se denomina estudio con doble enmascaramiento.
+
+¿Dónde se hizo este estudio?
+
+Los centros del estudio se encontraban en 15 países.
+
+Alemania
+
+Argentina
+
+Australia
+
+Canadá
+
+España
+
+Estados Unidos
+
+Federación Rusa
+
+Italia
+
+Japón
+
+Países Bajos
+
+Polonia
+
+Reino Unido
+
+República de Corea
+
+Rumanía
+
+Sudáfrica
+
+¿A qué pacientes se incluyó en este estudio?
+
+Los estudios tienen una lista de requisitos que definen a los pacientes que pueden participar (criterios de inclusión) y a los que no (criterios de exclusión). Los principales criterios de inclusión y de exclusión de este estudio se muestran a continuación.
+
+En el estudio se incluyó a hombres y mujeres que cumplían las siguientes condiciones:
+
+• Eran mayores de 18 años.
+• Se les había diagnosticado asma al menos un año antes de iniciar el estudio.
+• Habían estado tomando tratamiento diario para el asma (dosis de media a alta de ICS y LABA) durante al menos 12 semanas antes de iniciar el estudio.
+• Padecían asma mal controlada de acuerdo con la puntuación de una encuesta sobre asma.
+
+Se excluyó del estudio a los hombres y mujeres si cumplían las siguientes condiciones:
+
+• Registraban un empeoramiento del asma que requirió un cambio en la dosis de ICS y LABA en las seis semanas anteriores al inicio del estudio.
+• Tenían enfermedad pulmonar obstructiva crónica o cualquier otra enfermedad pulmonar.
+• Eran fumadores o lo habían sido, con un historial de fumar al menos 20 cigarrillos al día durante 10 años.
+• Tenían cualquier trastorno médico que, según el criterio del médico del estudio, podía afectar a los resultados del estudio.
+
+Un total de 2436 pacientes recibieron al menos una dosis de los medicamentos del estudio. En la siguiente tabla se muestran el sexo y la edad de estos pacientes.
+
+Para obtener información más detallada acerca de los pacientes incluidos en este estudio, consulte los resúmenes de los resultados científicos (final de este documento se proporcionan los enlaces a estos resúmenes).
+
+¿Cuáles fueron los resultados globales del estudio?
+
+Las pruebas de función pulmonar sirven para determinar con qué facilidad los pulmones de los pacientes inhalan y exhalan aire. Los médicos pueden utilizar los resultados de estas pruebas para comprobar si la función pulmonar es estable, está mejorando o está empeorando.
+
+Un valor de la función pulmonar es el volumen espiratorio forzado en un segundo (VEF1).
+
+El VEF1 se define como la cantidad de aire que el paciente puede espirar en el primer segundo cuando se le pide que sople lo más fuerte posible en un tubo conectado a una máquina (espirómetro). Los valores elevados de VEF1 indican que se exhala una mayor cantidad de aire y que la función pulmonar es mejor.
+
+Los médicos del estudio midieron los valores de VEF1, antes de que los pacientes tomaran los medicamentos del estudio, el día 1 (al inicio) y en la semana 24. La diferencia entre el valor VEF1 al inicio y después de 24 semanas de tratamiento se llama cambio a las 24 semanas respecto al inicio en el VEF1.
+
+Los valores del cambio a las 24 semanas respecto al inicio en el VEF1 correspondientes a los diferentes pacientes de cada grupo de tratamiento se combinaron y promediaron.
+
+Estos valores promediados del grupo de terapia doble se compararon con cada uno de los dos grupos de terapia triple dentro de cada conjunto:
+
+•  Conjunto A (grupos de furoato de fluticasona de dosis baja):
+
+-  Grupo 1 (terapia doble) comparado con Grupo 2 (terapia triple) 
+-  Grupo 1 (terapia doble) comparado con Grupo 3 (terapia triple).
+
+•  Conjunto B (grupos de furoato de fluticasona de dosis alta):
+
+-  Grupo 4 (terapia doble) comparado con Grupo 5 (terapia triple) 
+-  Grupo 4 (terapia doble) comparado con Grupo 6 (terapia triple).
+
+Se pudo calcular el cambio a las 24 semanas respecto al inicio en el VEF1 para 2310 pacientes que tenían tanto valores de Día 1 como de Semana 24. Los resultados se muestran en la figura siguiente.
+
+Después de 24 semanas, la mejora en el FEV promedio1 de los pacientes de los grupos de terapia triple fue mayor en comparación con los grupo de terapia doble.
+
+Los resúmenes de los resultados científicos contienen más información sobre los resultados del estudio (al final de este documento se proporcionan los enlaces a esos resúmenes).
+
+¿Cuáles fueron los efectos secundarios?
+
+Al recibir un medicamento, las personas pueden presentar acontecimientos médicos no deseados (acontecimientos adversos). Los médicos del estudio dejan constancia de estos acontecimientos. Puede encontrar un resumen de todos estos acontecimientos en los resúmenes de los resultados científicos (al final de este documento se proporcionan los enlaces a esos resúmenes).
+
+Si el médico del estudio piensa que el acontecimiento fue causado por los medicamentos del estudio, dejará constancia del mismo como un posible efecto secundario (reacción adversa).
+
+En este resumen, por “efectos secundarios” se entienden los acontecimientos que, en opinión del médico del estudio, pueden haber sido causados por los medicamentos del estudio. Los efectos secundarios de este resumen pueden ser diferentes de los del consentimiento informado o de otros documentos relacionados con los medicamentos del estudio.
+
+Se notificaron dos efectos secundarios graves. Un paciente (menos del 1 %) del Grupo 2 tuvo un efecto secundario grave en el que un coágulo de sangre fue al pulmón y provocó la muerte del paciente (efecto secundario grave mortal). Se realizó una revisión de este posible efecto secundario utilizando resultados de otros estudios. La revisión demostró que es improbable que los medicamentos del estudio provoquen coágulos de sangre.
+
+Un paciente (menos del 1 %) del Grupo 6 notificó un efecto secundario grave de latidos anormalmente rápidos e irregulares del corazón. En los demás grupos de tratamiento no se notificó ningún efecto secundario grave.
+
+En la tabla siguiente se muestra el número de pacientes (porcentaje) con efectos secundarios no graves notificados por al menos el uno por ciento de los pacientes de cualquier grupo de tratamiento.
+
+Voz ronca
+
+¿Cómo ha ayudado este estudio a los pacientes y a los investigadores?
+
+Fue un estudio de fase III. Los estudios de fase III recogen información sobre cómo funcionan los medicamentos nuevos y sobre su seguridad. Los resultados ayudan a las autoridades reguladoras del gobierno a tomar decisiones sobre los medicamentos nuevos para su país. Los investigadores concluyeron que la adición de umeclidinio a la terapia doble, en el tratamiento de pacientes con asma mal controlada, mostró una mejora mayor de la función pulmonar en comparación con la terapia doble sola. Los efectos secundarios notificados en este estudio fueron limitados.Estudio sobre la seguridad de una vacuna contra el rotavirus en bebés
